@@ -1,0 +1,33 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "0fda1c8b-bdbc-4b28-831a-18040e2e6f49"
+    js:
+      indent_size: 2
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      ".tmp"
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 18
+  "exception-reporting":
+    userId: "73193938-e118-eb45-13e5-0c0dc0910ee6"
+  linter:
+    errorPanelHeight: 70
+  "linter-eslint":
+    eslintrcPath: "~/.eslintrc.yml"
+  "linter-pep8":
+    pep8ExecutablePath: "/home/dylan/.virtualenvs/conf_mgmt/bin/pep8"
+  "split-diff":
+    diffWords: true
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+    syncHorizontalScroll: true
